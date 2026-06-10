@@ -5,7 +5,6 @@
 Recréation fidèle de Pac-Man avec score, vies, fantômes, mode Super Pac-Gomme, passages téléporteurs, effets visuels et sonores, et meilleurs scores.
 
 ![Processing](https://img.shields.io/badge/Processing-006699?style=flat&logo=processingfoundation&logoColor=white)
-![MIT](https://img.shields.io/badge/Licence-MIT-4f8ef7?style=flat)
 
 <br/>
 
